@@ -1,7 +1,7 @@
 *DO File for Econometric Project
 *Does intergenerational education mobility differ by caste in India, and did it change between 2004-05 and 2011-12?
 
-cd "C:\aryaman\Masters\SEM 2\IHDS\data2005\ICPSR_22626-V12\ICPSR_22626\my_changes"
+cd "C:\"
 use "22626-0001-Data.dta", clear
 describe // loading in the individual file
 sort STATEID DISTID PSUID HHID HHSPLITID
