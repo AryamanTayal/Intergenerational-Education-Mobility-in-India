@@ -6,7 +6,7 @@
 *Making another do file. Will run this again cleanly see if the merge file I get is any different from the one I have currently and then combine the code for the table thing
 
 * MAIN STEPS BEFORE REGRESSION
-cd "C:\aryaman\Masters\SEM 2\IHDS\data2005\ICPSR_22626-V12\ICPSR_22626\my_changes"
+cd "C:\"
 use "analysis_sample_2005_redo.dta", clear
 * ── Step 1: Verify caste variable looks right ──
 tab caste5
